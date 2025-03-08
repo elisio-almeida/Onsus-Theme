@@ -1,0 +1,2642 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Onsus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-25 09:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Domain: onsus"
+
+#: inc/template-tags.php:65
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: inc/customizer/color/header.php:15
+msgid " Opacity =1 for Background Color"
+msgstr ""
+
+#: 404.php:19
+msgid " That page can’t be found."
+msgstr ""
+
+#: woocommerce/product-tab-single/style1.php:35
+#: woocommerce/product-tab-single/style1.php:42
+msgid "$"
+msgstr ""
+
+#: woocommerce/product-tab-single/style4.php:41
+#: woocommerce/product-tab-single/style5.php:40
+msgid "%"
+msgstr ""
+
+#: comments.php:67
+msgid "% Comments"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:387 wc-functions/wc-theme-hook.php:396
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: comments.php:78
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: inc/options/controls/dropdown-sidebars.php:15
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: comments.php:35
+msgid "(Edit)"
+msgstr ""
+
+#. %s location.
+#: woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: inc/sidebar_manage.php:191
+msgid "+ Add Sidebar"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:991
+#: inc/elementor-options/elementor-options.php:992
+msgid "+1 (008) 568 365 98"
+msgstr ""
+
+#: woocommerce/product-tab-single/style1.php:35
+#: woocommerce/product-tab-single/style1.php:42
+msgid ".00"
+msgstr ""
+
+#: comments.php:67
+msgid "0 Comments"
+msgstr ""
+
+#: inc/customizer.php:298 inc/customizer/footer/footer.php:18
+msgid "1 Columns"
+msgstr ""
+
+#: comments.php:67
+msgid "1 Comment"
+msgstr ""
+
+#: inc/customizer.php:283 inc/customizer.php:299 inc/customizer.php:314
+#: inc/customizer/content/blog-archive.php:63
+#: inc/customizer/content/blog-single.php:129
+#: inc/customizer/content/post-type.php:316
+#: inc/customizer/content/post-type.php:674 inc/customizer/footer/footer.php:19
+#: inc/customizer/shop/shop-archive.php:43
+#: inc/customizer/shop/shop-single.php:78
+msgid "2 Columns"
+msgstr ""
+
+#: inc/customizer.php:284 inc/customizer.php:300 inc/customizer.php:315
+#: inc/customizer/content/blog-archive.php:64
+#: inc/customizer/content/blog-single.php:130
+#: inc/customizer/content/post-type.php:317
+#: inc/customizer/content/post-type.php:675 inc/customizer/footer/footer.php:20
+#: inc/customizer/shop/shop-archive.php:44
+#: inc/customizer/shop/shop-single.php:79
+msgid "3 Columns"
+msgstr ""
+
+#: inc/customizer.php:285 inc/customizer.php:301 inc/customizer.php:316
+#: inc/customizer/content/blog-archive.php:65
+#: inc/customizer/content/blog-single.php:131
+#: inc/customizer/content/post-type.php:318
+#: inc/customizer/content/post-type.php:676
+#: inc/customizer/shop/shop-archive.php:45
+#: inc/customizer/shop/shop-single.php:80
+msgid "4 Columns"
+msgstr ""
+
+#: inc/customizer/footer/footer.php:21
+msgid "4 Columns ( 3 | 2 | 4 | 3 )"
+msgstr ""
+
+#: inc/customizer/footer/footer.php:22
+msgid "4 Columns ( 3 | 3 | 3 | 3 )"
+msgstr ""
+
+#: 404.php:18 inc/helpers.php:1092
+msgid "404"
+msgstr ""
+
+#: inc/breadcrumb.php:28 inc/breadcrumb-trail/breadcrumb-trail.php:271
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/customizer.php:286 inc/customizer.php:302 inc/customizer.php:317
+#: inc/customizer/shop/shop-archive.php:46
+msgid "5 Columns"
+msgstr ""
+
+#: inc/customizer/color/general.php:54
+msgid "Accent Color"
+msgstr ""
+
+#: woocommerce/footer-shop.php:74 woocommerce/footer-shop.php:81
+#: woocommerce/mobile/footer-shop.php:74 woocommerce/mobile/footer-shop.php:81
+msgid "Account"
+msgstr ""
+
+#: inc/customizer/footer/action-box.php:13
+msgid "Action Box ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/color/action-box.php:36
+msgid "Action Box Backgound"
+msgstr ""
+
+#: inc/customizer/color/action-box.php:120
+msgid "Action Box Button Background Color"
+msgstr ""
+
+#: inc/customizer/color/action-box.php:99
+msgid "Action Box Button Text Color"
+msgstr ""
+
+#: inc/customizer/color/action-box.php:57
+msgid "Action Box Heading Color"
+msgstr ""
+
+#: inc/customizer/color/action-box.php:78
+msgid "Action Box Text Color"
+msgstr ""
+
+#: inc/customizer/typography/navigation.php:87
+msgid "Active"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Add A Review"
+msgstr ""
+
+#. %s is product title
+#: tpl/wc-theme-hook.php:1108 wc-functions/wc-theme-hook.php:1117
+msgid "Add a review"
+msgstr ""
+
+#: inc/sidebar_manage.php:191
+msgid "Add a sidebar"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:217 wc-functions/wc-theme-hook.php:225
+msgid "Add to cart"
+msgstr ""
+
+#: functions.php:125
+msgid "Add widgets here to appear in your sidebar Blog Sidebar."
+msgstr ""
+
+#: functions.php:136
+msgid "Add widgets here to appear in your sidebar Footer area 1."
+msgstr ""
+
+#: functions.php:146
+msgid "Add widgets here to appear in your sidebar Footer area 2."
+msgstr ""
+
+#: functions.php:156
+msgid "Add widgets here to appear in your sidebar Footer area 3."
+msgstr ""
+
+#: functions.php:166
+msgid "Add widgets here to appear in your sidebar Footer widget area 4."
+msgstr ""
+
+#: functions.php:205
+msgid "Add widgets here to appear in your sidebar testimonial."
+msgstr ""
+
+#: functions.php:176 functions.php:186 functions.php:196
+msgid "Add widgets here to appear in your sidebar toggler."
+msgstr ""
+
+#: comments.php:95
+msgid "Add Your Comment"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1033
+msgid "Address"
+msgstr ""
+
+#: demo/import-demo.php:13
+msgid "After you import this demo, you will have to setup the MailChimp form."
+msgstr ""
+
+#: archive-portfolios.php:61 archive-services.php:60 tpl/wc-theme-hook.php:512
+#: wc-functions/wc-theme-hook.php:521
+msgid "All"
+msgstr ""
+
+#: tpl/header/category-menu.php:17
+msgid "All Categories"
+msgstr ""
+
+#: tpl/header/search-form.php:12 woocommerce/mobile/popup-search.php:18
+msgid "All categories"
+msgstr ""
+
+#: inc/sidebar_manage.php:273
+msgid "Appearance > Sidebars"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Apply coupon"
+msgstr ""
+
+#: inc/breadcrumb.php:29 inc/breadcrumb-trail/breadcrumb-trail.php:272
+msgid "Archives"
+msgstr ""
+
+#: inc/sidebar_manage.php:172
+msgid "Are you sure you want to remove"
+msgstr ""
+
+#: inc/customizer.php:271
+msgid "Assending"
+msgstr ""
+
+#: inc/customizer.php:254 inc/customizer/content/blog-archive.php:173
+msgid "Author"
+msgstr ""
+
+#: inc/helpers.php:1114
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:94 wc-functions/wc-theme-hook.php:94
+#: woocommerce/product-tab-single/style3.php:50
+#: woocommerce/product-tab-single/style6.php:50
+msgid "Available: "
+msgstr ""
+
+#: tpl/wc-theme-hook.php:1163 wc-functions/wc-theme-hook.php:1172
+#: woocommerce/single-product-reviews.php:87
+msgid "Average"
+msgstr ""
+
+#: 404.php:23
+msgid "Back To Home Page"
+msgstr ""
+
+#: inc/customizer/color/bottom.php:15 inc/customizer/color/footer.php:15
+msgid "Backgound Color"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:620
+#: inc/elementor-options/elementor-options.php:735
+#: inc/elementor-options/elementor-options.php:797
+#: inc/customizer/color/topbar.php:14
+#: inc/customizer/typography/navigation.php:180
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/page-title/page-title.php:151
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/typography/navigation.php:200
+msgid "Background Hover & Active"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:745
+msgid "Background Overlay"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:1086 wc-functions/wc-theme-hook.php:1095
+#, php-format
+msgid "Based on %s review"
+msgid_plural "Based on %s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tpl/wc-theme-hook.php:1108 wc-functions/wc-theme-hook.php:1117
+#: woocommerce/single-product-reviews.php:62
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/customizer/typography/body.php:61
+msgid "Blockquote"
+msgstr ""
+
+#: inc/helpers.php:1082 inc/customizer/typography/blog-post.php:4
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/content/blog-archive.php:42
+#: inc/customizer/content/blog-single.php:109
+msgid "Blog Grid"
+msgstr ""
+
+#: inc/customizer/content/blog-archive.php:39
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer/content/blog-archive.php:41
+#: inc/customizer/content/blog-single.php:108
+msgid "Blog List"
+msgstr ""
+
+#: inc/customizer/typography/blog-post.php:30
+msgid "Blog Meta"
+msgstr ""
+
+#: inc/customizer/typography/blog-post.php:82
+msgid "Blog Single"
+msgstr ""
+
+#: inc/customizer/typography/blog-post.php:108
+msgid "Blog Single Comment Title"
+msgstr ""
+
+#: inc/customizer/typography/body.php:9
+msgid "Body"
+msgstr ""
+
+#: inc/customizer/layout.php:35
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/customizer/typography/body.php:46
+msgid "Body Color"
+msgstr ""
+
+#: inc/options/controls/typography.php:66
+msgid "Bold 700"
+msgstr ""
+
+#: inc/options/controls/typography.php:67
+msgid "Bold 700 italic"
+msgstr ""
+
+#: inc/helpers.php:1140
+msgid "Book Appointment"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:808
+msgid "Border"
+msgstr ""
+
+#: inc/customizer/typography/navigation.php:220
+msgid "Border Line"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:758
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer/footer/bottom.php:14
+msgid "Bottom ( OFF | ON )"
+msgstr ""
+
+#: functions.php:66
+msgid "Bottom Menu"
+msgstr ""
+
+#: inc/customizer/header/logo.php:84 inc/customizer/header/topbar.php:226
+msgid "Box Controls (px)"
+msgstr ""
+
+#: inc/customizer/layout.php:18
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/typography/page-title.php:61
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/page-title/breadcrumb.php:14
+msgid "Breadcrumb ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/page-title/breadcrumb.php:31
+msgid "Breadcrumb Prefix"
+msgstr ""
+
+#: inc/customizer/page-title/breadcrumb.php:48
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/breadcrumb.php:26 inc/breadcrumb-trail/breadcrumb-trail.php:269
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:268
+msgid "Browse:"
+msgstr ""
+
+#: inc/customizer/footer/info.php:49
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Carosuel"
+msgstr ""
+
+#: inc/customizer.php:227
+msgid "Carosuel No Margin"
+msgstr ""
+
+#: woocommerce/footer-shop.php:47 woocommerce/mobile/footer-shop.php:47
+msgid "Cart"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:25
+msgid "Cart totals"
+msgstr ""
+
+#: tpl/header/header-01.php:174 tpl/header/header-02.php:172
+#: tpl/header/header-03.php:281 tpl/header/header-04.php:159
+#: tpl/header/header-default.php:212
+msgid "Categories"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:363 wc-functions/wc-theme-hook.php:371
+msgid "Categories:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:68
+msgid "Category Menu"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:34
+msgid "CATEGORY:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/page-title/page-title.php:73
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/general.php:55
+msgid "Circle Loaders 1"
+msgstr ""
+
+#: inc/customizer/general.php:59
+msgid "Circle Loaders 2"
+msgstr ""
+
+#: inc/customizer/general.php:63
+msgid "Circle Loaders 3"
+msgstr ""
+
+#: inc/customizer/general.php:67
+msgid "Circle Loaders 4"
+msgstr ""
+
+#: inc/helpers.php:243
+msgid "Classic"
+msgstr ""
+
+#: tpl/partner.php:15
+msgid "client"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1228
+msgid "Clients"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:720
+#: inc/elementor-options/elementor-options.php:783
+#: inc/customizer/typography/bottom.php:48
+#: inc/customizer/typography/footer.php:34
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/typography/footer.php:55
+msgid "Color Hover"
+msgstr ""
+
+#: inc/customizer/shop/shop-archive.php:41
+#: inc/customizer/shop/shop-single.php:76
+msgid "Columns"
+msgstr ""
+
+#: inc/customizer/footer/footer.php:16
+msgid "Columns Footer"
+msgstr ""
+
+#: inc/customizer/content/blog-single.php:127
+msgid "Columns Of Related Posts"
+msgstr ""
+
+#: inc/customizer/content/post-type.php:314
+#: inc/customizer/content/post-type.php:672
+msgid "Columns Related"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "Comment Count"
+msgstr ""
+
+#: comments.php:76
+msgid "Comment navigation"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumb.php:35 inc/breadcrumb-trail/breadcrumb-trail.php:278
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr ""
+
+#: tpl/wc-theme-hook.php:1558 wc-functions/wc-theme-hook.php:1696
+msgid "Confirmation"
+msgstr ""
+
+#: inc/plugins/plugins.php:20
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/layout.php:53
+msgid "Content Box Controls (px)"
+msgstr ""
+
+#: inc/customizer/footer/bottom.php:31 inc/customizer/typography/bottom.php:10
+msgid "Copyright"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Coupon:"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Cover"
+msgstr ""
+
+#: inc/helpers.php:301
+msgid "Create a Menu"
+msgstr ""
+
+#: inc/sidebar_manage.php:197
+msgid "CSS class"
+msgstr ""
+
+#: inc/customizer/header/topbar.php:191
+msgid "Currency Dropdown ( OFF | ON )"
+msgstr ""
+
+#: tpl/topbar.php:140 tpl/header/header-default.php:144
+msgid "Currency:"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:283
+msgid "Custom Logo"
+msgstr ""
+
+#: inc/customizer/content/blog-single.php:14
+msgid "Customize Blog Featured Title"
+msgstr ""
+
+#: inc/customizer/content/post-type.php:258
+msgid "Customize Portfolio Featured Title"
+msgstr ""
+
+#: inc/customizer/shop/shop-single.php:14
+msgid "Customize Product Featured Title"
+msgstr ""
+
+#: inc/customizer/content/post-type.php:598
+msgid "Customize Services Featured Title"
+msgstr ""
+
+#: inc/customizer/content/post-type.php:861
+msgid "Customize Team Featured Title"
+msgstr ""
+
+#: inc/options/controls/typography.php:79
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/options/controls/typography.php:75
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:797
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1226
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/helpers.php:1117
+#, php-format
+msgid "Daily: %s"
+msgstr ""
+
+#: inc/customizer.php:252 inc/customizer/content/blog-archive.php:174
+msgid "Date"
+msgstr ""
+
+#: inc/customizer/page-title/page-title.php:50
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:270
+msgid "Descending"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:967
+msgid "Description"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:942 wc-functions/wc-theme-hook.php:951
+msgid "Description: "
+msgstr ""
+
+#: inc/helpers.php:32
+msgid "Design Options"
+msgstr ""
+
+#: inc/customizer/content/blog-archive.php:101
+#: inc/customizer/content/blog-archive.php:169
+msgid "Drag and drop elements to re-order."
+msgstr ""
+
+#: inc/plugins/plugins.php:8
+msgid "Elementor"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:1129 wc-functions/wc-theme-hook.php:1138
+#: woocommerce/single-product-reviews.php:69
+#: inc/customizer/header/header-options.php:303
+msgid "Email"
+msgstr ""
+
+#: inc/helpers.php:762 inc/helpers.php:767
+msgid "English"
+msgstr ""
+
+#: inc/customizer/content/blog-single.php:68
+msgid "Entry Footer ( OFF | ON )"
+msgstr ""
+
+#: inc/helpers.php:806
+msgid "EUR"
+msgstr ""
+
+#: inc/customizer/content/blog-archive.php:107
+msgid "Excerpt"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:553
+#: inc/elementor-options/elementor-options.php:643
+#: inc/elementor-options/elementor-options.php:832
+msgid "Extra Classes"
+msgstr ""
+
+#: inc/options/controls/typography.php:68
+msgid "Extra-bold 800"
+msgstr ""
+
+#: inc/options/controls/typography.php:69
+msgid "Extra-bold 800 italic"
+msgstr ""
+
+#: inc/options/controls/typography.php:54
+msgid "Extra-light 200"
+msgstr ""
+
+#: inc/options/controls/typography.php:55
+msgid "Extra-light 200 italic"
+msgstr ""
+
+#: inc/customizer/color/footer.php:61
+#: inc/customizer/page-title/page-title.php:117
+msgid "Fill Screen"
+msgstr ""
+
+#: inc/customizer/content/post-type.php:212
+#: inc/customizer/content/post-type.php:552
+msgid "Filter ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/color/footer.php:60
+#: inc/customizer/page-title/page-title.php:116
+msgid "Fit to Screen"
+msgstr ""
+
+#: inc/options/controls/typography.php:211
+msgid "Font Color"
+msgstr ""
+
+#: inc/options/controls/typography.php:98
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/typography/blog-post.php:20
+#: inc/customizer/typography/blog-post.php:46
+#: inc/customizer/typography/blog-post.php:98
+#: inc/customizer/typography/blog-post.php:124
+#: inc/customizer/typography/body.php:26 inc/customizer/typography/body.php:77
+#: inc/customizer/typography/bottom.php:27
+#: inc/customizer/typography/bottom.php:122
+#: inc/customizer/typography/button.php:13
+#: inc/customizer/typography/footer-widget-title.php:13
+#: inc/customizer/typography/footer.php:13
+#: inc/customizer/typography/heading.php:12
+#: inc/customizer/typography/navigation.php:27
+#: inc/customizer/typography/navigation.php:119
+#: inc/customizer/typography/page-title.php:26
+#: inc/customizer/typography/page-title.php:77
+#: inc/customizer/typography/pagination.php:13
+#: inc/customizer/typography/sidebar-widget-title.php:13
+#: inc/customizer/typography/topbar.php:13
+msgid "Font name/style/sets"
+msgstr ""
+
+#: inc/options/controls/typography.php:175
+msgid "Font Size (px)"
+msgstr ""
+
+#: inc/options/controls/typography.php:150
+msgid "Font subsets"
+msgstr ""
+
+#: inc/options/controls/typography.php:118
+msgid "Font Weight & Style"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:666
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/footer/footer.php:38
+msgid "Footer Box Controls (px)"
+msgstr ""
+
+#: inc/customizer/color/footer.php:57
+msgid "Footer Image Size"
+msgstr ""
+
+#: functions.php:134
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: functions.php:144
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: functions.php:154
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: functions.php:164
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: inc/customizer.php:188
+msgid "footer_default"
+msgstr ""
+
+#: inc/customizer/general.php:241
+msgid "Form popup description"
+msgstr ""
+
+#: inc/customizer/general.php:220
+msgid "Form popup heading"
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "Four"
+msgstr ""
+
+#: inc/helpers.php:772
+msgid "French"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page"
+msgstr ""
+
+#: inc/customizer/layout.php:77 inc/elementor-options/elementor-options.php:862
+#: inc/customizer/content/blog-archive.php:19
+#: inc/customizer/content/post-type.php:67
+#: inc/customizer/content/post-type.php:407
+#: inc/customizer/shop/shop-archive.php:20
+#: inc/customizer/shop/shop-single.php:38
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "Full width (no sidebar)"
+msgstr ""
+
+#: inc/customizer/layout.php:79 inc/elementor-options/elementor-options.php:864
+#: inc/customizer/content/blog-archive.php:21
+#: inc/customizer/content/post-type.php:69
+#: inc/customizer/content/post-type.php:409
+#: inc/customizer/shop/shop-archive.php:22
+#: inc/customizer/shop/shop-single.php:40
+msgid "Full Width Center"
+msgstr ""
+
+#: inc/customizer/layout.php:78 inc/elementor-options/elementor-options.php:863
+#: inc/customizer/content/blog-archive.php:20
+#: inc/customizer/content/post-type.php:68
+#: inc/customizer/content/post-type.php:408
+#: inc/customizer/shop/shop-archive.php:21
+#: inc/customizer/shop/shop-single.php:39
+msgid "Full Width Small"
+msgstr ""
+
+#: inc/customizer/footer/partner-box.php:104
+msgid "Gap Image"
+msgstr ""
+
+#: inc/helpers.php:777
+msgid "German"
+msgstr ""
+
+#: inc/customizer/general.php:138
+msgid "Go To Button ( OFF | ON )"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:1162 wc-functions/wc-theme-hook.php:1171
+#: woocommerce/single-product-reviews.php:86
+msgid "Good"
+msgstr ""
+
+#: inc/options/controls/typography.php:76
+msgid "Greek"
+msgstr ""
+
+#: inc/options/controls/typography.php:77
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/customizer.php:176 inc/customizer.php:223
+msgid "Grid"
+msgstr ""
+
+#: woocommerce/archive-product.php:56
+msgid "Grid layout"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "Grid Masonry"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Grid Masonry No Margin"
+msgstr ""
+
+#: inc/customizer/typography/heading.php:32
+msgid "H1 font size (px)"
+msgstr ""
+
+#: inc/customizer/typography/heading.php:53
+msgid "H2 font size (px)"
+msgstr ""
+
+#: inc/customizer/typography/heading.php:74
+msgid "H3 font size (px)"
+msgstr ""
+
+#: inc/customizer/typography/heading.php:95
+msgid "H4 font size (px)"
+msgstr ""
+
+#: inc/customizer/typography/heading.php:116
+msgid "H5 font size (px)"
+msgstr ""
+
+#: inc/customizer/typography/heading.php:137
+msgid "H6 font size (px)"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:273
+msgid "Header"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:69
+#: inc/customizer/header/header-options.php:23
+msgid "Header 01"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:70
+#: inc/customizer/header/header-options.php:27
+msgid "Header 02"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:71
+#: inc/customizer/header/header-options.php:31
+msgid "Header 03"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:72
+#: inc/customizer/header/header-options.php:35
+msgid "Header 04"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:467
+#: inc/customizer/color/header.php:14
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer/header/button.php:15
+msgid "Header Button ( OFF | ON )"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:378
+msgid "Header Cart"
+msgstr ""
+
+#: inc/customizer/header/header-options.php:201
+msgid "Header Cart ( OFF | ON )"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:407
+msgid "Header Cart Bottom"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:438
+msgid "Header Category"
+msgstr ""
+
+#: inc/customizer/header/header-options.php:109
+msgid "Header Category ( OFF | ON )"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:422
+msgid "Header Compare"
+msgstr ""
+
+#: inc/customizer/header/header-options.php:133
+msgid "Header Compare ( OFF | ON )"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:68
+#: inc/customizer/header/header-options.php:19
+msgid "Header Default"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:350
+msgid "Header Sticky"
+msgstr ""
+
+#: inc/customizer/header/header-options.php:73
+msgid "Header Sticky ( OFF | ON )"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:63
+#: inc/customizer/header/header-options.php:16
+msgid "Header Style"
+msgstr ""
+
+#: inc/helpers.php:244
+msgid "Header style 02"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:392
+msgid "Header Wishlist"
+msgstr ""
+
+#: inc/customizer/header/header-options.php:155
+msgid "Header Wishlist ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/page-title/page-title.php:14
+msgid "Heading ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/footer/action-box.php:31
+msgid "Heading Action Box"
+msgstr ""
+
+#: inc/customizer/typography/page-title.php:46
+msgid "Heading Text Color"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:93
+#: inc/elementor-options/elementor-options.php:108
+#: inc/elementor-options/elementor-options.php:123
+#: inc/elementor-options/elementor-options.php:138
+#: inc/elementor-options/elementor-options.php:152
+#: inc/elementor-options/elementor-options.php:167
+#: inc/elementor-options/elementor-options.php:369
+#: inc/elementor-options/elementor-options.php:383
+#: inc/elementor-options/elementor-options.php:397
+#: inc/elementor-options/elementor-options.php:412
+#: inc/elementor-options/elementor-options.php:427
+#: inc/elementor-options/elementor-options.php:443
+msgid "Hide"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:674
+msgid "Hide Footer"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:575
+msgid "Hide Page Title"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:767
+msgid "Hide?"
+msgstr ""
+
+#: inc/breadcrumb.php:27 inc/breadcrumb-trail/breadcrumb-trail.php:270
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:779
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/customizer/typography/navigation.php:67
+msgid "Hover"
+msgstr ""
+
+#: inc/customizer/typography/navigation.php:160
+msgid "Hover & Active"
+msgstr ""
+
+#. URI of the theme
+msgid "https://onsuswp.themesflat.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/themesflat/portfolio"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1072
+#: inc/elementor-options/elementor-options.php:1108
+#: inc/elementor-options/elementor-options.php:1144
+#: inc/elementor-options/elementor-options.php:1180
+#: inc/elementor-options/elementor-options.php:1320
+#: inc/elementor-options/elementor-options.php:1356
+#: inc/elementor-options/elementor-options.php:1392
+#: inc/elementor-options/elementor-options.php:1428
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1053
+#: inc/elementor-options/elementor-options.php:1301
+msgid "Icon 1"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1089
+#: inc/elementor-options/elementor-options.php:1337
+msgid "Icon 2"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1125
+#: inc/elementor-options/elementor-options.php:1373
+msgid "Icon 3"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1161
+#: inc/elementor-options/elementor-options.php:1409
+msgid "Icon 4"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1259
+msgid "Icon Category"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1270
+msgid "Icon Client"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1248
+msgid "Icon Date"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1281
+msgid "Icon Website"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Id"
+msgstr ""
+
+#: inc/customizer/header/logo.php:16 inc/customizer/header/logo.php:39
+msgid ""
+"If you don't display logo please remove it your website display \n"
+"            Site Title default in General"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1210
+msgid "Image Detail"
+msgstr ""
+
+#: inc/template-tags.php:47
+msgid "In - "
+msgstr ""
+
+#: inc/customizer/footer/info.php:13
+msgid "Info Box ( OFF | ON )"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:323
+msgid "Infor Phone Text"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:848 wc-functions/wc-theme-hook.php:857
+msgid "Information"
+msgstr ""
+
+#: inc/customizer/page-title/page-title.php:49
+msgid "Inline Heading & Breadcrumbs"
+msgstr ""
+
+#: content-none.php:35
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/header/header-options.php:282
+msgid "Label Email"
+msgstr ""
+
+#: inc/customizer/header/header-options.php:240
+msgid "Label Phone"
+msgstr ""
+
+#: inc/customizer/header/topbar.php:173
+msgid "Language Dropdown ( OFF | ON )"
+msgstr ""
+
+#: tpl/topbar.php:149 tpl/header/header-default.php:151
+msgid "Language:"
+msgstr ""
+
+#: inc/options/controls/typography.php:81
+msgid "Latin"
+msgstr ""
+
+#: inc/options/controls/typography.php:78
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/customizer.php:112
+msgid "Layout Style"
+msgstr ""
+
+#: inc/customizer/layout.php:15
+msgid "Layout version"
+msgstr ""
+
+#. %s is product title
+#: tpl/wc-theme-hook.php:1110 wc-functions/wc-theme-hook.php:1119
+#: woocommerce/single-product-reviews.php:63
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/customizer/page-title/page-title.php:72
+msgid "Left"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:182
+msgid "Let up help you find the perfect item"
+msgstr ""
+
+#: inc/options/controls/typography.php:199
+msgid "Letter Spacing ( Value in px or em )"
+msgstr ""
+
+#: inc/options/controls/typography.php:56
+msgid "Light 300"
+msgstr ""
+
+#: inc/options/controls/typography.php:57
+msgid "Light 300 italic"
+msgstr ""
+
+#: inc/options/controls/typography.php:187
+msgid "Line height ( ex: 25px or 1.8 or 150% )"
+msgstr ""
+
+#: inc/customizer/general.php:83
+msgid "Line Loaders"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1064
+#: inc/elementor-options/elementor-options.php:1312
+msgid "Link 1"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1100
+#: inc/elementor-options/elementor-options.php:1348
+msgid "Link 2"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1136
+#: inc/elementor-options/elementor-options.php:1384
+msgid "Link 3"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1172
+#: inc/elementor-options/elementor-options.php:1420
+msgid "Link 4"
+msgstr ""
+
+#: inc/customizer/typography/bottom.php:69
+#: inc/customizer/typography/topbar.php:55
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/typography/bottom.php:90
+#: inc/customizer/typography/topbar.php:76
+msgid "Link Color Hover"
+msgstr ""
+
+#: woocommerce/archive-product.php:58
+msgid "List layout"
+msgstr ""
+
+#: inc/customizer/content/blog-archive.php:83
+#: inc/customizer/content/post-type.php:87
+#: inc/customizer/content/post-type.php:427
+msgid "List Sidebar"
+msgstr ""
+
+#: inc/customizer.php:240 tpl/pagination.php:46
+#: inc/customizer/content/blog-archive.php:200
+msgid "Load More"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:314
+msgid "Logo Background Color"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:291
+msgid "Logo Width"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1011
+msgid "Mail"
+msgstr ""
+
+#: inc/plugins/plugins.php:25
+msgid "Mailchimp"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:872
+msgid "Main Content"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:605
+#: inc/elementor-options/elementor-options.php:894
+msgid "Margin"
+msgstr ""
+
+#: inc/options/controls/typography.php:62
+msgid "Medium 500"
+msgstr ""
+
+#: inc/options/controls/typography.php:63
+msgid "Medium 500 italic"
+msgstr ""
+
+#: tpl/header/header-01.php:171 tpl/header/header-02.php:169
+#: tpl/header/header-03.php:278 tpl/header/header-04.php:156
+#: tpl/header/header-default.php:209 inc/customizer/typography/bottom.php:106
+#: inc/customizer/typography/navigation.php:10
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/header/topbar.php:137
+msgid "Menu ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer.php:258
+msgid "Menu Order"
+msgstr ""
+
+#: comments.php:120
+msgid "Message"
+msgstr ""
+
+#: inc/customizer/content/blog-archive.php:105
+msgid "Meta"
+msgstr ""
+
+#: inc/customizer/content/blog-archive.php:168
+msgid "Meta Elements"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumb.php:37 inc/breadcrumb-trail/breadcrumb-trail.php:280
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:745
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:762
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/helpers.php:245
+msgid "Modern"
+msgstr ""
+
+#: inc/customizer.php:256
+msgid "Modified"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:796
+#: inc/breadcrumb-trail/breadcrumb-trail.php:852
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1222
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/helpers.php:1119
+#, php-format
+msgid "Monthly: %s"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:30
+msgid "N/A"
+msgstr ""
+
+#: inc/sidebar_manage.php:196 tpl/wc-theme-hook.php:1122
+#: wc-functions/wc-theme-hook.php:1131
+#: woocommerce/single-product-reviews.php:68
+msgid "Name"
+msgstr ""
+
+#: comments.php:79
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: inc/template-tags.php:131 tpl/pagination.php:44
+msgid "Next"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:355
+#: inc/elementor-options/elementor-options.php:580
+#: inc/elementor-options/elementor-options.php:679
+#: inc/elementor-options/elementor-options.php:772
+msgid "No"
+msgstr ""
+
+#: search.php:38 woocommerce/archive-product.php:90
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: inc/customizer.php:329 inc/elementor-options/elementor-options.php:859
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/sidebar_manage.php:218
+msgid "No Sidebars defined"
+msgstr ""
+
+#: inc/options/controls/typography.php:58
+#: inc/options/controls/typography.php:60
+msgid "Normal 400"
+msgstr ""
+
+#: inc/options/controls/typography.php:59
+#: inc/options/controls/typography.php:61
+msgid "Normal 400 italic"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:1164 wc-functions/wc-theme-hook.php:1173
+#: woocommerce/single-product-reviews.php:88
+msgid "Not that bad"
+msgstr ""
+
+#: inc/sidebar_manage.php:273
+msgid "Note:"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:532 wc-functions/wc-theme-hook.php:541
+msgid "Nothing found"
+msgstr ""
+
+#: inc/customizer/content/blog-single.php:148
+#: inc/customizer/content/post-type.php:335
+#: inc/customizer/content/post-type.php:652
+msgid "Number Of Related Posts"
+msgstr ""
+
+#: inc/customizer/footer/footer.php:77
+msgid "Number Of Related Products Desktop"
+msgstr ""
+
+#: inc/customizer/footer/footer.php:115
+msgid "Number Of Related Products Mobile"
+msgstr ""
+
+#: inc/customizer/footer/footer.php:96
+msgid "Number Of Related Products Tablet"
+msgstr ""
+
+#: inc/customizer.php:162 inc/customizer/content/blog-archive.php:198
+msgid "Numeric"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "One"
+msgstr ""
+
+#: inc/plugins/plugins.php:35
+msgid "One Click Demo Import"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:1175 wc-functions/wc-theme-hook.php:1184
+#: woocommerce/single-product-reviews.php:102
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#. Name of the theme
+msgid "Onsus"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Onsus is responsive multipurpose WordPress theme – truly a versatile theme "
+"perfect for any type of website you want. It provides multiple pre-built "
+"demos which can be imported in seconds using One Click Demo Import Plugin. "
+"The theme fully integrates with ThemesFlat By Themesflat.com and Elementor "
+"Page Builder Plugin that makes theme more user-friendly and easy. "
+"Additionally, theme features multiple blog layouts,  multiple header styles, "
+"multiple color options etc."
+msgstr ""
+
+#: 404.php:19
+msgid "Oops!"
+msgstr ""
+
+#: inc/customizer/color/footer.php:59
+#: inc/customizer/page-title/page-title.php:115
+msgid "Original"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:630
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:179
+#: inc/elementor-options/elementor-options.php:591
+#: inc/elementor-options/elementor-options.php:691
+#: inc/elementor-options/elementor-options.php:817
+#: inc/elementor-options/elementor-options.php:881
+msgid "Padding"
+msgstr ""
+
+#: inc/customizer/content/blog-archive.php:197
+msgid "Page"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumb.php:33 inc/helpers.php:404
+#: inc/breadcrumb-trail/breadcrumb-trail.php:276
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/customizer/content/blog-archive.php:199
+msgid "Page & Numeric"
+msgstr ""
+
+#: inc/customizer/layout.php:73
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: inc/customizer/typography/page-title.php:9
+msgid "Page Title"
+msgstr ""
+
+#: inc/customizer/page-title/page-title.php:70
+msgid "Page Title Alignment"
+msgstr ""
+
+#: inc/customizer/page-title/page-title.php:133
+msgid "Page Title Background Video URL"
+msgstr ""
+
+#: inc/customizer/page-title/page-title.php:193
+msgid "Page Title Controls (px)"
+msgstr ""
+
+#: inc/customizer/page-title/page-title.php:113
+msgid "Page Title Image Size"
+msgstr ""
+
+#: inc/customizer/page-title/page-title.php:27
+#: inc/customizer/page-title/page-title.php:47
+msgid "Page Title Style"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Pager"
+msgstr ""
+
+#: inc/customizer.php:163 inc/customizer.php:239
+msgid "Pager & Numeric"
+msgstr ""
+
+#: content-page.php:15 content-single.php:25
+#: tpl/entry-content/entry-content-body.php:10
+#: tpl/entry-content/entry-content-body.php:25
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/content/blog-archive.php:195
+msgid "Pagination Style"
+msgstr ""
+
+#: inc/customizer/page-title/page-title.php:51
+msgid "Parallax"
+msgstr ""
+
+#: inc/customizer/footer/partner-box.php:14
+msgid "Partner Box ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/footer/partner-box.php:142
+msgid "Partner Box Backgound"
+msgstr ""
+
+#: inc/customizer/footer/partner-box.php:122
+msgid "Partner Box Controls (px)"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:1161 wc-functions/wc-theme-hook.php:1170
+#: woocommerce/single-product-reviews.php:85
+msgid "Perfect"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:969
+#: inc/elementor-options/elementor-options.php:970
+msgid ""
+"Phasellus laoreet aliquet augue. Ut odio felis, auctor vel fringilla ac, "
+"finibus vitae elit. In convallis tellus nibh, nec sagittis ex dictum ac. "
+"Etiam vel pharetra diam"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:989
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer/header/topbar.php:83
+msgid "Phone (Clear phone to off phone topbar)"
+msgstr ""
+
+#: inc/customizer/header/topbar.php:66
+msgid "Phone Label"
+msgstr ""
+
+#: inc/customizer/header/header-options.php:261
+#: inc/customizer/header/info.php:30
+msgid "Phone Number"
+msgstr ""
+
+#: inc/sidebar_manage.php:98
+msgid "Please input sidebar name and try again."
+msgstr ""
+
+#: inc/sidebar_manage.php:273
+msgid "Please select the sidebar you would like to display."
+msgstr ""
+
+#: inc/customizer/content/post-type.php:7
+msgid "PORTFOLIO ARCHIVE"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1218
+msgid "Portfolio Post Meta"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1293
+msgid "portfolio Post Social"
+msgstr ""
+
+#: inc/customizer/content/post-type.php:239
+msgid "PORTFOLIO SINGLE"
+msgstr ""
+
+#: inc/customizer/content/blog-archive.php:100
+msgid "Post Content Elements"
+msgstr ""
+
+#: inc/customizer/content/blog-archive.php:61
+msgid "Post Grid Columns"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:928
+msgid "Post Icon"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:937
+msgid "Post Icon 2"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1022
+msgid "Post Icon Address"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1000
+msgid "Post Icon Mail"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:978
+msgid "Post Icon Phone"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "Post navigation"
+msgstr ""
+
+#: inc/customizer/content/blog-single.php:32
+#: inc/customizer/content/blog-single.php:50
+msgid "Post Navigator ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/general.php:52
+msgid "Preload"
+msgstr ""
+
+#: inc/customizer/general.php:32
+msgid "Preload ( OFF | ON )"
+msgstr ""
+
+#: inc/template-tags.php:117
+msgid "Previews"
+msgstr ""
+
+#: tpl/pagination.php:45
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:97
+msgid "Price"
+msgstr ""
+
+#: inc/customizer/color/general.php:14
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:65
+msgid "Primary Menu"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:77
+msgid "Product"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:723 wc-functions/wc-theme-hook.php:732
+msgid "Product Configuration "
+msgstr ""
+
+#: tpl/wc-theme-hook.php:793 wc-functions/wc-theme-hook.php:802
+msgid "Product Information "
+msgstr ""
+
+#: tpl/wc-theme-hook.php:956 wc-functions/wc-theme-hook.php:965
+msgid "Product information: "
+msgstr ""
+
+#: tpl/wc-theme-hook.php:656 wc-functions/wc-theme-hook.php:665
+msgid "Product Properties "
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inc/plugins/plugins.php:70
+msgid "Product Video Gallery for Woocommerce"
+msgstr ""
+
+#: inc/customizer/header/topbar.php:155
+msgid "Profile Dropdown ( OFF | ON )"
+msgstr ""
+
+#: inc/template-tags.php:103
+msgid "Published In"
+msgstr ""
+
+#: inc/customizer/general.php:75
+msgid "Pulse Loaders"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:103
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:31
+msgid "Quantity:"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:1160 wc-functions/wc-theme-hook.php:1169
+#: woocommerce/single-product-reviews.php:84
+msgid "Rate&hellip;"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:920 tpl/wc-theme-hook.php:1000
+#: tpl/wc-theme-hook.php:1085 wc-functions/wc-theme-hook.php:929
+#: wc-functions/wc-theme-hook.php:1009 wc-functions/wc-theme-hook.php:1094
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:1159 wc-functions/wc-theme-hook.php:1168
+msgid "Rating:"
+msgstr ""
+
+#: archive-services.php:120
+msgid "Read More"
+msgstr ""
+
+#: woocommerce/related-product.php:40 woocommerce/single-product/related.php:35
+msgid "Recently Viewed"
+msgstr ""
+
+#: inc/customizer/typography/navigation.php:48
+#: inc/customizer/typography/navigation.php:140
+msgid "Regular"
+msgstr ""
+
+#: inc/customizer/content/post-type.php:294
+msgid "Related Portfolios ( OFF | ON )"
+msgstr ""
+
+#: tpl/related-post.php:49
+msgid "Related Post"
+msgstr ""
+
+#: inc/customizer/content/blog-single.php:86
+msgid "Related Posts ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/content/blog-single.php:106
+msgid "Related Posts Style"
+msgstr ""
+
+#: inc/customizer/footer/footer.php:58 inc/customizer/shop/shop-single.php:57
+msgid "Related Products ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/content/post-type.php:634
+msgid "Related Services ( OFF | ON )"
+msgstr ""
+
+#: inc/sidebar_manage.php:198
+msgid "Remove"
+msgstr ""
+
+#: inc/sidebar_manage.php:210
+msgid "remove"
+msgstr ""
+
+#: woocommerce/cart/cart.php:56 woocommerce/cart/mini-cart.php:49
+msgid "Remove this item"
+msgstr ""
+
+#: inc/sidebar_manage.php:210
+msgid "Remove this sidebar"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:304 wc-functions/wc-theme-hook.php:312
+msgid "Review"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:921 tpl/wc-theme-hook.php:1001
+#: wc-functions/wc-theme-hook.php:930 wc-functions/wc-theme-hook.php:1010
+#, php-format
+msgid "Review(%s)"
+msgid_plural "Reviews(%s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tpl/wc-theme-hook.php:1169 wc-functions/wc-theme-hook.php:1178
+msgid "Review:"
+msgstr ""
+
+#: inc/customizer/page-title/page-title.php:74
+msgid "Right"
+msgstr ""
+
+#: woocommerce/product-tab-single/style4.php:40
+#: woocommerce/product-tab-single/style5.php:39
+msgid "SALE"
+msgstr ""
+
+#: woocommerce/product-tab-single/style1.php:35
+#: woocommerce/product-tab-single/style1.php:42
+msgid "Save"
+msgstr ""
+
+#: woocommerce/footer-shop.php:89 tpl/header/header-03.php:254
+#: woocommerce/mobile/footer-shop.php:89
+msgid "Search"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:364
+msgid "Search Box"
+msgstr ""
+
+#: inc/customizer/header/header-options.php:91
+msgid "Search Box ( OFF | ON )"
+msgstr ""
+
+#: inc/helpers.php:1014 inc/helpers.php:1015 tpl/header/header-03.php:251
+#: tpl/header/search-form.php:21 woocommerce/mobile/popup-search.php:27
+msgid "Search for products"
+msgstr ""
+
+#: inc/helpers.php:1094 inc/helpers.php:1123
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#. %s is the search query.
+#: inc/breadcrumb.php:31 inc/breadcrumb-trail/breadcrumb-trail.php:274
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search...."
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search:"
+msgstr ""
+
+#: inc/customizer/color/general.php:34
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/options/controls/typography.php:64
+msgid "Semi-bold 600"
+msgstr ""
+
+#: inc/options/controls/typography.php:65
+msgid "Semi-bold 600 italic"
+msgstr ""
+
+#: inc/customizer/content/post-type.php:347
+msgid "SERVICES ARCHIVE"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:920
+msgid "Services Post"
+msgstr ""
+
+#: functions.php:194
+msgid "Services Sidebar"
+msgstr ""
+
+#: inc/customizer/content/post-type.php:579
+msgid "SERVICES SINGLE"
+msgstr ""
+
+#: woocommerce/single-product/share.php:31
+msgid "SHARE :"
+msgstr ""
+
+#: inc/helpers.php:1043
+msgid "Share :"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:52 woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr ""
+
+#: inc/customizer/header/topbar.php:119
+msgid "Shipping ( OFF | ON )"
+msgstr ""
+
+#: woocommerce/footer-shop.php:9 woocommerce/mobile/footer-shop.php:9
+msgid "Shop"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:184
+msgid "Shop All"
+msgstr ""
+
+#: tpl/header/header-01.php:143 tpl/header/header-03.php:176
+#: tpl/header/header-default.php:180
+msgid "Shop Cart"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:1550 wc-functions/wc-theme-hook.php:1688
+msgid "Shopping & Checkout"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:1539 wc-functions/wc-theme-hook.php:1677
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/customizer/header/header-options.php:221
+msgid "Short code Currency"
+msgstr ""
+
+#: inc/customizer/general.php:198
+msgid "Shortcode Mailchimp"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:94
+#: inc/elementor-options/elementor-options.php:109
+#: inc/elementor-options/elementor-options.php:124
+#: inc/elementor-options/elementor-options.php:139
+#: inc/elementor-options/elementor-options.php:153
+#: inc/elementor-options/elementor-options.php:168
+#: inc/elementor-options/elementor-options.php:370
+#: inc/elementor-options/elementor-options.php:384
+#: inc/elementor-options/elementor-options.php:398
+#: inc/elementor-options/elementor-options.php:413
+#: inc/elementor-options/elementor-options.php:428
+#: inc/elementor-options/elementor-options.php:444
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/shop/shop-archive.php:134
+msgid "Show Configuration ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/shop/shop-archive.php:98
+msgid "Show Cowndown ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/shop/shop-archive.php:152
+msgid "Show Delivery ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/footer/partner-box.php:53
+msgid "Show Number Image (Desktop)"
+msgstr ""
+
+#: inc/customizer/footer/partner-box.php:87
+msgid "Show Number Image (Mobile)"
+msgstr ""
+
+#: inc/customizer/footer/partner-box.php:70
+msgid "Show Number Image (Tablet)"
+msgstr ""
+
+#: inc/customizer/content/post-type.php:104
+#: inc/customizer/content/post-type.php:444
+#: inc/customizer/content/post-type.php:743
+msgid "Show Number Posts"
+msgstr ""
+
+#: inc/customizer/shop/shop-archive.php:63
+msgid "Show Number Products"
+msgstr ""
+
+#: inc/customizer/general.php:157
+msgid "Show Popup Form ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/shop/shop-archive.php:116
+msgid "Show Progessbar ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/shop/shop-archive.php:81
+msgid "Show Thumb ( OFF | ON )"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:511 wc-functions/wc-theme-hook.php:520
+#, php-format
+msgid "Show: %s"
+msgstr ""
+
+#: inc/sidebar_manage.php:102
+msgid "Sidebar already exists, please use a different name."
+msgstr ""
+
+#: functions.php:123
+msgid "Sidebar Blog"
+msgstr ""
+
+#: inc/sidebar_manage.php:185
+msgid "Sidebar Generator"
+msgstr ""
+
+#: inc/customizer.php:331 inc/customizer/layout.php:76
+#: inc/elementor-options/elementor-options.php:861
+#: inc/customizer/content/blog-archive.php:18
+#: inc/customizer/content/post-type.php:66
+#: inc/customizer/content/post-type.php:406
+#: inc/customizer/shop/shop-archive.php:19
+#: inc/customizer/shop/shop-single.php:37
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Sidebar left"
+msgstr ""
+
+#: inc/sidebar_manage.php:180
+msgid "Sidebar Name:"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:855
+#: inc/customizer/content/blog-archive.php:15
+#: inc/customizer/content/post-type.php:63
+#: inc/customizer/content/post-type.php:403
+#: inc/customizer/shop/shop-archive.php:16
+#: inc/customizer/shop/shop-single.php:34
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer.php:330 inc/customizer/layout.php:75
+#: inc/elementor-options/elementor-options.php:860
+#: inc/customizer/content/blog-archive.php:17
+#: inc/customizer/content/post-type.php:65
+#: inc/customizer/content/post-type.php:405
+#: inc/customizer/shop/shop-archive.php:18
+#: inc/customizer/shop/shop-single.php:36
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Sidebar right"
+msgstr ""
+
+#: functions.php:184
+msgid "Sidebar Shop"
+msgstr ""
+
+#: functions.php:174
+msgid "Sidebar Toggler"
+msgstr ""
+
+#: inc/sidebar_manage.php:268
+msgid "Sidebars"
+msgstr ""
+
+#: inc/sidebar_manage.php:165
+msgid "Sidebars Manager"
+msgstr ""
+
+#: tpl/topbar.php:172 tpl/header/header-default.php:84
+msgid "Sign In"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Simple List"
+msgstr ""
+
+#: inc/customizer/content/post-type.php:276
+#: inc/customizer/content/post-type.php:616
+msgid "Single Navigator ( OFF | ON )"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:30
+msgid "SKU:"
+msgstr ""
+
+#: inc/customizer/general.php:14
+msgid "Smooth Scroll ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/general.php:119
+msgid "Social Share  ( OFF | ON )"
+msgstr ""
+
+#: inc/customizer/general.php:120
+msgid "Social share only visible on detail pages"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:91 tpl/wc-theme-hook.php:925
+#: wc-functions/wc-theme-hook.php:91 wc-functions/wc-theme-hook.php:934
+#: woocommerce/product-tab-single/style3.php:53
+#: woocommerce/product-tab-single/style5.php:80
+#: woocommerce/product-tab-single/style6.php:54
+msgid "Sold: "
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer/general.php:71
+msgid "Spinner Loaders"
+msgstr ""
+
+#: inc/customizer/general.php:79
+msgid "Square Loaders"
+msgstr ""
+
+#: inc/customizer/color/header.php:34
+msgid "Sticky Header Background"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1035
+#: inc/elementor-options/elementor-options.php:1036
+msgid "StLondon SW11 3DE, UK"
+msgstr ""
+
+#: inc/customizer/typography/navigation.php:102
+msgid "Sub Menu"
+msgstr ""
+
+#: comments.php:97 tpl/wc-theme-hook.php:1114
+#: wc-functions/wc-theme-hook.php:1123
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:30 woocommerce/cart/cart-totals.php:31
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:125
+msgid "Subtotal"
+msgstr ""
+
+#: tpl/header/header-default.php:91
+msgid "Support"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:36
+msgid "TAG:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:65
+msgid "Tags :"
+msgstr ""
+
+#: inc/customizer/content/post-type.php:688
+msgid "TEAM ARCHIVE"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:959
+msgid "Team Post Meta"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1045
+msgid "Team Post Social"
+msgstr ""
+
+#: inc/customizer/content/post-type.php:842
+msgid "TEAM SINGLE"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:325
+#: inc/elementor-options/elementor-options.php:326
+msgid "Telk With Us"
+msgstr ""
+
+#: functions.php:203
+msgid "Testimonial Sidebar"
+msgstr ""
+
+#: inc/customizer/footer/info.php:31 inc/customizer/header/button.php:32
+#: inc/customizer/header/info.php:13
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/footer/action-box.php:48
+msgid "Text Action Box"
+msgstr ""
+
+#: inc/customizer/footer/action-box.php:66
+msgid "Text Button Action Box"
+msgstr ""
+
+#: inc/customizer/typography/page-title.php:97
+#: inc/customizer/typography/topbar.php:34
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/header/topbar.php:101
+msgid "Text ship (Only WooC and setting shipping)"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:658
+msgid "TF Footer"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:56
+msgid "TF Header"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:847
+msgid "TF Page"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:567
+msgid "TF Page Title"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1202
+msgid "TF Portfolio"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:912
+msgid "TF Services"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:951
+msgid "TF Team"
+msgstr ""
+
+#: inc/sidebar_manage.php:187
+msgid ""
+"The sidebar name is for your use only. It will not be visible to any of your "
+"visitors. A CSS class is assigned to each of your sidebar, use this styling "
+"to customize the sidebars."
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:67
+#: inc/elementor-options/elementor-options.php:92
+#: inc/elementor-options/elementor-options.php:107
+#: inc/elementor-options/elementor-options.php:122
+#: inc/elementor-options/elementor-options.php:137
+#: inc/elementor-options/elementor-options.php:151
+#: inc/elementor-options/elementor-options.php:166
+#: inc/elementor-options/elementor-options.php:354
+#: inc/elementor-options/elementor-options.php:368
+#: inc/elementor-options/elementor-options.php:382
+#: inc/elementor-options/elementor-options.php:396
+#: inc/elementor-options/elementor-options.php:411
+#: inc/elementor-options/elementor-options.php:426
+#: inc/elementor-options/elementor-options.php:442
+msgid "Theme Setting"
+msgstr ""
+
+#. Author of the theme
+msgid "Themesflat"
+msgstr ""
+
+#: inc/plugins/plugins.php:13
+msgid "Themesflat Core"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:49
+msgid "There are no reviews yet."
+msgstr ""
+
+#: inc/options/controls/typography.php:52
+msgid "Thin 100"
+msgstr ""
+
+#: inc/options/controls/typography.php:53
+msgid "Thin 100 italic"
+msgstr ""
+
+#: inc/sidebar_manage.php:172
+msgid "This will remove any widgets you have assigned to this sidebar."
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1013
+#: inc/elementor-options/elementor-options.php:1014
+msgid "thomas roberts@gmail.com"
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Three"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:1739 tpl/wc-theme-hook.php:1741
+#: wc-functions/wc-theme-hook.php:1877 wc-functions/wc-theme-hook.php:1879
+msgid "Time delivery"
+msgstr ""
+
+#: inc/customizer.php:255 inc/customizer/content/blog-archive.php:106
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/typography/footer-widget-title.php:34
+msgid "Title Widget Color"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:88
+msgid "Top Bar"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:147
+msgid "Top Bar Currency"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:133
+msgid "Top Bar Language"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:103
+msgid "Top Bar Menu"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:118
+msgid "Top Bar Profile"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:162
+msgid "Top Bar Shipping"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:79
+msgid "Topbar"
+msgstr ""
+
+#: inc/customizer/header/topbar.php:14
+msgid "Topbar ( OFF | ON )"
+msgstr ""
+
+#: functions.php:67
+msgid "Topbar Menu"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:98 woocommerce/cart/cart-totals.php:99
+msgid "Total"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Two"
+msgstr ""
+
+#: inc/options/controls/typography.php:70
+msgid "Ultra-bold 900"
+msgstr ""
+
+#: inc/options/controls/typography.php:71
+msgid "Ultra-bold 900 italic"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Update cart"
+msgstr ""
+
+#: inc/customizer/color/footer.php:36
+#: inc/customizer/page-title/page-title.php:92
+msgid "Upload Background Image"
+msgstr ""
+
+#: inc/customizer/general.php:176
+msgid "Upload Image"
+msgstr ""
+
+#: inc/customizer/color/action-box.php:15
+msgid "Upload Your Background Image"
+msgstr ""
+
+#: inc/customizer/header/logo.php:15
+msgid "Upload Your Logo "
+msgstr ""
+
+#: inc/customizer/header/logo.php:38
+msgid "Upload Your Logo On Mobile"
+msgstr ""
+
+#: inc/customizer/footer/partner-box.php:34
+msgid "Upload Your Partner Image"
+msgstr ""
+
+#: inc/customizer/footer/action-box.php:82 inc/customizer/footer/info.php:65
+#: inc/customizer/header/button.php:49
+msgid "Url"
+msgstr ""
+
+#: inc/helpers.php:796 inc/helpers.php:801
+msgid "USD"
+msgstr ""
+
+#: inc/plugins/plugins.php:60
+msgid "Variation Swatches for WooCommerce"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:1165 wc-functions/wc-theme-hook.php:1174
+#: woocommerce/single-product-reviews.php:89
+msgid "Very poor"
+msgstr ""
+
+#: inc/customizer/page-title/page-title.php:52
+msgid "Video"
+msgstr ""
+
+#: inc/options/controls/typography.php:80
+msgid "Vietnamese"
+msgstr ""
+
+#: woocommerce/content-single-product.php:107
+msgid "View"
+msgstr ""
+
+#: tpl/entry-content/entry-content-meta.php:19
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: woocommerce/archive-product.php:54
+msgid "View as"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:929 wc-functions/wc-theme-hook.php:938
+msgid "View shop"
+msgstr ""
+
+#: tpl/wc-theme-hook.php:383 wc-functions/wc-theme-hook.php:391
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/helpers.php:811
+msgid "VND"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1238
+msgid "Website"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1230
+#: inc/elementor-options/elementor-options.php:1231
+msgid "Webtend Agency"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:1240
+#: inc/elementor-options/elementor-options.php:1241
+msgid "Webtend.com"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumb.php:39 inc/breadcrumb-trail/breadcrumb-trail.php:282
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:825
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: tpl/topbar.php:165 tpl/header/header-default.php:77
+msgid "Welcome,"
+msgstr ""
+
+#: inc/customizer/layout.php:17
+msgid "Wide"
+msgstr ""
+
+#: woocommerce/footer-shop.php:25 woocommerce/mobile/footer-shop.php:25
+msgid "Wishlist"
+msgstr ""
+
+#: tpl/header/header-02.php:73
+msgid "wishlist:"
+msgstr ""
+
+#: inc/plugins/plugins.php:30
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/plugins/plugins.php:55
+msgid "WPC Smart Compare for WooCommerce"
+msgstr ""
+
+#: inc/plugins/plugins.php:65
+msgid "X-Currency"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:795
+#: inc/breadcrumb-trail/breadcrumb-trail.php:824
+#: inc/breadcrumb-trail/breadcrumb-trail.php:851
+#: inc/breadcrumb-trail/breadcrumb-trail.php:878
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1218
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/helpers.php:1121
+#, php-format
+msgid "Yearly: %s"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:356
+#: inc/elementor-options/elementor-options.php:579
+#: inc/elementor-options/elementor-options.php:678
+#: inc/elementor-options/elementor-options.php:771
+msgid "Yes"
+msgstr ""
+
+#: inc/plugins/plugins.php:50
+msgid "YITH WooCommerce Frequently Bought Together"
+msgstr ""
+
+#: inc/plugins/plugins.php:45
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: inc/plugins/plugins.php:40
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: tpl/wc-theme-hook.php:1155 wc-functions/wc-theme-hook.php:1164
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: inc/sidebar_manage.php:273
+msgid "You must first create the sidebar under"
+msgstr ""
+
+#: woocommerce/footer-shop.php:52 tpl/header/header-02.php:106
+#: tpl/header/header-04.php:87 tpl/header/header-cart.php:19
+#: woocommerce/mobile/footer-shop.php:52
+msgid "Your cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:181
+msgid "Your cart is curently empty"
+msgstr ""
+
+#: tpl/header/header-02.php:98 tpl/header/header-cart.php:14
+msgid "Your cart:"
+msgstr ""
+
+#: comments.php:42
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:109
+msgid "Your email "
+msgstr ""
+
+#: comments.php:105
+msgid "Your name"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your Order"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Your review..."
+msgstr ""
